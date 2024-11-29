@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+/* ------------------- */
+
+.card-header{
+  font-weight: 900;
+  font-size: x-large;
+}
+
+.home-back{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: x-large;
+}
+
+.navbar{
+  height: 40px;
+  width: 100%;
+  background-color: cadetblue;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-title{
+  font-size: x-large;
+  margin-left: 20px;
+}
