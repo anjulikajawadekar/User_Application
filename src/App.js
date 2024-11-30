@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import UserList from "./pages/UserList";
-import UsersTable from './pages/UsersTable';
 import UserInfo from './pages/UserInfo';
 
 function App() {
